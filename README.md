@@ -1,0 +1,2 @@
+# .gitignore
+Prueba Python
